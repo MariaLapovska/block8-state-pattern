@@ -94,7 +94,7 @@ public class Human {
 
     @Override
     public String toString() {
-        return "com.epam.state_pattern.Human{" +
+        return "Human{" +
                 "name=" + getName() +
                 ", gender=" + getGender() +
                 ", age=" + getAge() +
